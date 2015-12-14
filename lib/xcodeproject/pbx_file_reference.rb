@@ -77,7 +77,9 @@ module XcodeProject
 			'.jpeg' => 'image.jpeg',
 			'.jpg'  => 'image.jpeg',
 			'.fnt' => 'text',
-			'.txt' => 'text'
+			'.txt' => 'text',
+			'.bundle'=>'wrapper.plug-in',
+			'.framework'=>'wrapper.framework'
 		}
 	end
 end
